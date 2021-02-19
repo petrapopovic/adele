@@ -1,0 +1,36 @@
+paragraf1{
+    font-style: oblique;
+    text-align: center;
+    
+}
+h1{
+    background-color: rgb(158, 117, 89);
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.slika{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 20%;
+}
+.adele1{
+    text-align: center;
+    font-style: oblique;
+}
+body{
+    background-color: rgb(238, 179, 139);
+}
+.paragraf2{
+    font-style: oblique;
+    text-align: center;
+
+}
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+} 
